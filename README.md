@@ -1,4 +1,4 @@
-# Ripening_date_WGS
+# Ripening_time_WGS
 WGS project: GWAS for ripening time
 
 This repository will contain all the of the R scripts written by Thomas Davies for the WGS Ripening Time Project. 
